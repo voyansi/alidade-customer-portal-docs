@@ -1,10 +1,7 @@
-# This is the Title
+# Alidade Customer Portal User Guides
 
-### SubTitle
+Use the links below to find specific sets of instructions for each user type:
 
 [Go to Master Client Guide](masterclient.md)
-
-Some text goes here:
-- item 1
-- item 2
-- item 3
+[Go to Tenant Guide](tenant.md)
+[Go to Subtenant Guide](subtenant.md)
